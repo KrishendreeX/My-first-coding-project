@@ -40,3 +40,6 @@ python-mini-toolkit/
 ├── README.md
 └── screenshots/
     └── folder_structure.png
+
+## Developer Name
+Krishendree Kistensamy
